@@ -13,4 +13,4 @@ It is dividing elements in to smaller parts based on some condition and performi
 
 quickSort() performs partition() repeatedly until the array is completely sorted\
 partition() checks compares the left & right pointer to pivot and calls swap if necessary\
-swap() swaps the index of element of two pointers\
+swap() swaps the index of element of two pointers
